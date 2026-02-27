@@ -4,7 +4,7 @@ tags:
   - AWS
   - SAA-C03
 private: false
-updated_at: '2026-02-27T11:44:32+09:00'
+updated_at: '2026-02-27T11:58:18+09:00'
 id: 5ec02135369bfc07a7d5
 organization_url_name: null
 slide: false
